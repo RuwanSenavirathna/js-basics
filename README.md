@@ -1,6 +1,6 @@
 # js-basics
 
-JavaScript basics for beginners
+JavaScript basics for beginners.
 
 
 ..........
