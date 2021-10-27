@@ -10,3 +10,4 @@ JavaScript basics for beginners.
 
 ## Languages / Covered topics
 + JavaScript
+
